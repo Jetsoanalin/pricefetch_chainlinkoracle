@@ -3,10 +3,10 @@
 ## Steps for Testing
 
 Step 1 :
-`git clone https://github.com/jetsoanalin/SolidityTestBase.git`
+`git clone https://github.com/jetsoanalin/pricefetch_chainlinkoracle.git`
 
 Step 2 :
-`cd SolidityTestBase`
+`cd pricefetch_chainlinkoracle`
 
 Step 3 :
 `npm i`
