@@ -1,0 +1,23 @@
+{
+  "name": "pricefetch",
+  "version": "1.0.0",
+  "description": "Price Fetch Smart Contract Tester",
+  "scripts": {
+    "compile": "node compile.js",
+    "deploy": "node deploy.js",
+    "test": "node compile.js && mocha --timeout 30000"
+  },
+  "author": {
+    "name": "Jetso Analin",
+    "email": "jetyjetso@gmail.com",
+    "url": "https://www.linkedin.com/in/jetsoanalin/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^4.0.41",
+    "fs-extra": "8.1.0",
+    "ganache-cli": "6.8.1",
+    "mocha": "^7.0.0",
+    "solc": "^0.6.7"
+  }
+}
